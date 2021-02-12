@@ -4,7 +4,6 @@ import dotenv from 'dotenv';
 import express from 'express';
 import mongoose from 'mongoose';
 
-// Import Routes
 import todoRoutes from './routes/todo.js';
 
 dotenv.config();
