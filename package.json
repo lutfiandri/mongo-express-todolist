@@ -8,8 +8,8 @@
   "type": "module",
   "private": false,
   "scripts": {
-    "start": "nodemon index.js",
-    "build": "node index.js"
+    "dev": "nodemon index.js",
+    "start": "node index.js"
   },
   "devDependencies": {
     "eslint": "^7.19.0",
